@@ -46,24 +46,10 @@ A comprehensive stock and cryptocurrency analysis platform with portfolio tracki
 
 ### Option 1: Monolithic (Current Running)
 
-The dashboard is already running on port 5000 with all features enabled.
-
-### Option 2: Microservices
-
-```bash
-# Build and run microservices
-docker-compose -f docker-compose-microservices.yml up --build
-
-# Access at http://localhost:80
 ```
+docker-compose up
 
-### Option 3: Kubernetes (Cloud Ready)
-
-```bash
-# Deploy to Kubernetes
-kubectl apply -f k8s/
-
-# Access via ingress at financehub.local
+# Acess at localhost:5000
 ```
 
 ## Project Structure
