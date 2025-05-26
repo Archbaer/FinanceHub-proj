@@ -44,8 +44,6 @@ A comprehensive stock and cryptocurrency analysis platform with portfolio tracki
 
 ## Quick Start
 
-### Option 1: Monolithic (Current Running)
-
 ```
 docker-compose up
 
