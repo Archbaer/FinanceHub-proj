@@ -2,7 +2,7 @@
 
 A comprehensive stock and cryptocurrency analysis platform with portfolio tracking and performance analytics.
 
-## 🚀 Features
+## Features
 
 ### Core Functionality
 
@@ -26,7 +26,7 @@ A comprehensive stock and cryptocurrency analysis platform with portfolio tracki
 - **Trending Tickers** - Popular stocks and crypto on homepage
 - **CSV Export** - Download portfolio reports and stock data
 
-## 🏗️ Architecture
+## Architecture
 
 ### Monolithic Version (Current)
 
@@ -42,7 +42,7 @@ A comprehensive stock and cryptocurrency analysis platform with portfolio tracki
 - **Container**: Docker & Docker Compose ready
 - **Orchestration**: Kubernetes manifests for cloud deployment
 
-## 🛠️ Quick Start
+## Quick Start
 
 ### Option 1: Monolithic (Current Running)
 
@@ -101,7 +101,7 @@ FinanceHub/
 └── .streamlit/config.toml            # Theme configuration
 ```
 
-## 🎨 Features Implemented
+## Features Implemented
 
 ✅ **Memory cache for last 10 stock searches**
 ✅ **Home screen with trending stocks/crypto**
