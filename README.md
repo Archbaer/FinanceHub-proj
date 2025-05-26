@@ -66,7 +66,7 @@ kubectl apply -f k8s/
 # Access via ingress at financehub.local
 ```
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 FinanceHub/
@@ -114,7 +114,7 @@ FinanceHub/
 ✅ **Kubernetes deployment files for cloud**
 ✅ **Production-ready code structure**
 
-## 🔗 Social Links
+## Social Links
 
 - **GitHub**: https://github.com/archbaer
 
